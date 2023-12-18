@@ -232,6 +232,8 @@ Costo variable, que depende de la cantidad de materiales a retirar y distribuir:
 -Costo de combustible de flota propia
 
 Amortizaciones de bienes de capital:
+- Fota de vehiculos
+- Instalaciones
 
 
 ## 7.  Area de Logistica - UNIBER
