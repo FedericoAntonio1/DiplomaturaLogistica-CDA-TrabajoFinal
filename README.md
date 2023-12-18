@@ -221,3 +221,68 @@ El Sol Materiales contrata transportes para el abastecimiento de materiales dire
 Para enviar los materiales a los clientes el sol materiales posee una flota de 6 camiones, 3 camiones con estructura para la carga mixta de pallets y de chapas y hierros torsionados, y 3 camiones playos que son preferentemente para cargas paletizadas. Estos envíos son gestionados por el área de tráfico.
 
 Loma Negra posee la opción de compra CIF, es decir, incluyendo el costo de flete, o bien FOB, llevando un camión propio del cliente a fabricar para retirar el cemento (siempre y cuando cumpla con las normas de seguridad establecidas por loma negra). El sol materiales utiliza el inoterm FOB, ya que el costo de transporte es un 25% más económico utilizando un camión contratado por la empresa.
+
+Los materiales son colocados directamente en los propios para su reparto, por lo tanto los valores de costo de embalaje no serán aplicables en este caso, tampoco seria aplicable el costo de adquisición por tratarse de una empresa de comercialización y distribución.
+
+Dicho esto se pueden dividir los costos logísticos en fijos y variables:
+
+COSTOS FIJOS, que se componen de:
+
+-sueldos, sampistas, operadores de tráfico, choferes.
+-costo mantenimiento autoelevador, puente grua, camiones propios, estos son realizados cada 6 meses.
+
+Costo variable, que depende de la cantidad de materiales a retirar y distribuir:
+-costo flete tercializado para abastecimiento
+-Costo de combustible de flota propia
+
+Amortizaciones de bienes de capital:
+
+
+## 7.  Area de Logistica - UNIBER
+
+
+*Situación real*
+Describa cómo está compuesto el sector de logística o bien el que lleva a cabo esta actividad. Realice un organigrama del sector. Describa las competencias del personal.
+
+*Situación mejorada*
+Hable del principal problema con el personal del sector y proponga una solución en base a lo visto en el curso.
+
+**Situación real**
+
+Como observamos en el organigrama (**Vease la imagen adjunta: *OrganigramaLogisticaUNIBER***) el area de logistica cuenta con un gerente corporativo arriba de todos, quien asume las responsabilidades alte la gerencia sobre todas las operaciones de logisticas del grupo uniber. Abajo de el, cuenta con la jefatura de cada sucursal que integra la empresa. Esta persona esta como responsable del deposito, las operaciones de reparto y son los que mayor personal a cargo tienen. Un Ej. es el jefe de operaciones y logistica de El Sol Materiales, con hasta 40 personas a cargo. Este grupo esta ingregrado por responsables de depositos, operarios de los mismos, choferes de la empresa, administrativo de logistica y operativo de reparto. 
+
+El area cuenta ademas con una de equipos corporativos, que cubre necesidades de gestion de todas las sucursales por iguales. Cuenta con la jefa de abastecimiento que divide el total de mercaderia que comercializa la empresa y realiza un analisis de abastecimiento. Este es el sector que realiza el pedido de compra y luego es el area de compra que negocia y concreta la compra del material. Esto es devuelto al area de logistica, donde el equipo de trafico gestiona la correcta disponicion de transporte desde la fabrica a sucursal. Este equipo actualmente cuenta con un leader corporativo y un analista operativo. 
+
+
+**Situación mejorada**
+
+Podemos observar una ausencia de analistas de gestion en todo el organigrama. Esto dificulta los objetivos de mejora continua y demora la estandarizacion de procesos. Se debe buscar una inversion en puestos donde brinden una visibilizacion de las posibles mejoras que implementar y la incorporacion de indicadores claves. 
+
+
+## 8. Modelo SCOR
+
+*_Situación actual:_* En base al cuadro de la página 61 del libro sugerido, del modelo SCOR indique qué indicadores pueden actualmente relevarse en la empresa.
+
+*_Situación mejorada:_* En base a las mejoras propuesta, seleccione al menos 3 nuevos indicadores y describa brevemente cómo los mediría.
+
+Situación actual: 
+Para relevar los indicadores que pueden aplicarse actualmente con la información disponible, nos centraremos en la P4 Planeación de la distribución:
+1. Tiempo de cliclo efectivo - efectivo
+2. tiempo de cumplimiento de la orden
+3. costos totales de distribución
+Cabe aclara que actualmente no se realizan mediciones con la metodología SCOR
+
+Situación mejorada:
+Con las mejoras propuestas en este proyecto, podríamos aplicar los siguientes indicadores:
+P1 PLANEACION DE LA CADENA DE SUMINISTRO
+1. costo de planificar el aprovisionamiento: suma de costos administrativos por emitir órdenes de compras, costos de la mercadería, flete e ingreso al almacen.
+2. tiempo de cumplimiento de orden: tiempo desde que una sucursal / cd solicita mercadería hasta que la recibe.
+
+P4 PLANEACION DE LA DISTRIBUCION
+1. tiempo de ciclo efectivo - efectivo: tiempo desde que la empresa saca a distribución las guías hasta que las cobra. 
+2. tiempo de cumplimiento de orden: tiempo desde que el cliente emite una oc y la recibe, así medir qué porcentaje de cumplimiento en las entregas tenemos (previamente establecer un objetivo de N días según localidad).
+3. costos totales de distribución: suma de costos de preparación de pedidos, out, distribución y rendición de documentación.
+
+P5 PLANEACION DE LAS DEVOLUCIONES
+1. costos de devoluciones: suma de los costos de logistica inversa, recpeción y control e ingreso en almacén.
+2. tiempo de cumplimiento de orden: tiempo desde que el cliente emite una or y la recibimos en nuestro almacén (previamente establecer un objetivo de N días según localidad).
